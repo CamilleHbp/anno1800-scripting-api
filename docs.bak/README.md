@@ -13,7 +13,6 @@ I never coded anything of this kind before, so expect some limitations :P
 This project is in no way affiliated with Ubisoft Blue Byte
 or Ubisoft
 
-
 **Also this might count as cheating, so be careful** !
 
 Finally, if you look through the code you will notice that many places are quite messy. Since I've never done this before and the game changes I cannot tell if certain techniques work or not. Much of the code could use a caring hand...
@@ -34,19 +33,20 @@ The idea of the project is to implement a scripting interface with [Anno 1800](h
 
 ### Requirements
 
-  * Visual Studio 2019 (C++ and C#)
+* Visual Studio 2019 (C++ and C#)
 
 ### Getting started
+
 **How to install and use**
 
 I will probably change a lot when I'm happier with the code. But at current, following should work.
 
-  * Clone the repo to a local folder
-  * Build the Anno1800ScriptingAPI.sln solution file (in debug mode)
-  * Run Anno 1800
-  * Configure the debugging settings by specifying $(TargetDir) as the working directory, as can be seen in the following image doc/surveillancevan_debug_config.png
+* Clone the repo to a local folder
+* Build the Anno1800ScriptingAPI.sln solution file (in debug mode)
+* Run Anno 1800
+* Configure the debugging settings by specifying $(TargetDir) as the working directory, as can be seen in the following image doc/surveillancevan_debug_config.png
     Launch the solution (still in debug mode)
-  * Run code using the monocle project (**with administrator rights**)
+* Run code using the monocle project (**with administrator rights**)
 
 ### License
 
