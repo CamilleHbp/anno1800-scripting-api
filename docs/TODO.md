@@ -25,3 +25,5 @@
 | Wiki contact page                     | :x:                   |
 | Wiki license page                     | :x:                   |
 | Todo page                             | :x:                   |
+
+[Color palette](https://coolors.co/add8e6-e6bbad-083d77-da4167-6a3e37)

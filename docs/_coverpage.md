@@ -1,4 +1,4 @@
-![logo](#./assets/anno1800-logo.svg ':size=60%')
+![logo](':size=60%')
 
 # Scripting API
 
