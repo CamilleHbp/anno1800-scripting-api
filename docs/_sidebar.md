@@ -1,8 +1,7 @@
 - Getting started
   - [Quick Start](README.md)
-  - [Contributing](quickstart.md)
+  - [I want to use it](README.md#i-want-to-use-it)
+  - [I want to contribute](CONTRIBUTING.md)
 
 - Legal
-  - [Code of Conduct](code_of_conduct.md)
   - [License](LICENSE.md)
-  - [Security](SECURITY.md)

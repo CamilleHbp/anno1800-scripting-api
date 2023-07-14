@@ -739,7 +739,7 @@ section.cover blockquote > p > a:hover {
   color: var(--accent);
 }
 
-section.cover .cover-main img {
+#cover-logo {
   content: var(--coverLogo);
   max-width: 60%;
 }

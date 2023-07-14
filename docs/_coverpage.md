@@ -1,4 +1,4 @@
-![logo](':size=60%')
+![logo]('' ':id=cover-logo')
 
 # Scripting API
 

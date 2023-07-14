@@ -26,4 +26,5 @@
 | Wiki license page                     | :x:                   |
 | Todo page                             | :x:                   |
 
-[Color palette](https://coolors.co/add8e6-e6bbad-083d77-da4167-6a3e37)
+[Color palette 1a](https://coolors.co/add8e6-e6bbad-083d77-da4167-6a3e37)
+[Color palette 1b](https://coolors.co/26677d-e6bbad-083d77-da4167-6a3e37)
