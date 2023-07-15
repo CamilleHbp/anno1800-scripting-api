@@ -7,9 +7,9 @@
 
 ## 1. Visual Studio 2019 installation
 
-![Visual Studio Installation](images/building_instructions_00_visual_studio.webp)
-
 Please select both `.Net desktop development` and `Desktop development with C++` during the installation process. Those are required to build the various programs of this project.
+
+![Visual Studio Installation](images/building_instructions_00_visual_studio.webp)
 
 ## 2. Get the source files
 
