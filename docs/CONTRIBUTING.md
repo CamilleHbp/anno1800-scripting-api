@@ -18,7 +18,7 @@
 
 ## To report any problem whatsoever
 
-!> **Security vulnerability** - In order to avoid incidents as much as possible, for this type of problem it should be transmitted directly and secretly to a member of the team.
+!> **Security vulnerability** - In order to avoid incidents as much as possible, this type of problem should be transmitted directly and secretly to a member of the team.
 
 - **Bug report template** - An [issue template](https://github.com/egomeh/anno1800-scripting-api/master/ISSUE_TEMPLATE/bug_report.md) is available to help you state the problem
 
@@ -30,5 +30,5 @@
 
 - For all questions we are at your disposal
 
-:heart: Thank you for everything :heart:
+:heart: Thank you for everything :heart:  
 The Anno 1800 Scripting API team
