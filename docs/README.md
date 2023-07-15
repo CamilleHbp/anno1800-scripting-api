@@ -30,11 +30,12 @@ First you need to install the program. You have 2 possibilities, install the sta
 
 ### I want to use the stable version
 
+!> TODO: This is not yet implemented. You need to build the solution yourself for now
 Just head to the [releases]() and download the latest version. Install the program
 
 ### I want to use the edge version
 
-You need to build the project on your windows computer. You can follow the [building instructions]().
+You need to build the project on your windows computer. You can follow the [building instructions](build/build_instructions.md).
 
 ## I want to contribute
 

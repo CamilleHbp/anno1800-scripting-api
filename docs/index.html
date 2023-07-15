@@ -39,7 +39,16 @@
       loadSidebar: true,
       name: 'Anno1800 Scripting API',
       plugins: [function (hook) {
-        var footer = ['<footer style="text-align: center;margin-top: 50px;">', '<span> <i class="fa-solid fa-scroll"></i> Anno1800 Scripting API <i class="fa-solid fa-scroll"></i> &copy; 2020 </span>', '</footer>'].join('');
+        var footer =
+          ' <footer style="text-align: center;margin-top: 50px;">\
+          <span id="footer">\
+            <img src="assets/images/toolbox.webp"/ id="footer-logo"/> <span>Anno1800 Scripting API</span>\
+            <img src="assets/images/toolbox.webp"/ id="footer-logo"/>\
+            </span>\
+            <span>\
+              by <a href="https://github.com/egomeh">egomeh</a> with ❤️\
+            </span>\
+          </footer>';
         hook.afterEach(function (html) {
           return html + footer;
         });

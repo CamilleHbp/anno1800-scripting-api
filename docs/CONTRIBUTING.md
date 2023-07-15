@@ -2,42 +2,33 @@
 
 - To start, do not hesitate to contribute, we thank you in advance for all contributions.
 
+## I don't know where to start
+
+- The first step is probably reading the [documentation](https://camillehbp.github.io/anno1800-scripting-api/).
+- Then you could build the project if you want, following the [build instructions](build/build_instructions.md).
+- Or you can join the [<i class="fa-brands fa-discord"></i> discord]() and speak with us. You are very welcome here. :wave:
+
 ## For all types of contributions
 
-- **No duplicate** - Check if whatever contribution you plan to offer is not already present, You can check the page ["issues" of this repository](https://github.com/seynax/anno1800-scripting-api/issues) to avoid any duplication
+- **No duplicate** - Check if whatever contribution you plan to offer is not already present, You can check the page ["issues" of this repository](https://github.com/egomeh/anno1800-scripting-api/issues) to avoid any duplication
 
-- **Courtesy and joy** - Be sure to remain courteous, polite, and non-arrogant.*
+- **Courtesy and joy** - Be sure to remain courteous and polite :)
 
 - **Clear and efficient** - Make sure that the titles chosen reflect the subject and that this and description are clear
 
 ## To report any problem whatsoever
 
-- **Security vulnerability** - In order to avoid incidents as much as possible, for this type of problem it should be transmitted directly and secretly to a member of the team, who will send a press release once it has been resolved. For more details you can read the [security policy informations](https://github.com/seynax/anno1800-scripting-api/master/SECURITY.md#security-policy)
+!> **Security vulnerability** - In order to avoid incidents as much as possible, for this type of problem it should be transmitted directly and secretly to a member of the team.
 
-- **Model** - To help you a [model](https://github.com/seynax/anno1800-scripting-api/master/ISSUE_TEMPLATE/bug_report.md) to state the problem is at your disposal
+- **Bug report template** - An [issue template](https://github.com/egomeh/anno1800-scripting-api/master/ISSUE_TEMPLATE/bug_report.md) is available to help you state the problem
 
-- **Useful information** - If possible, you can specify sample code or a scenario where the problem is or would be apparent.
+- **Useful information** - You can either open an [issue](https://github.com/egomeh/anno1800-scripting-api/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc), and specify the sample code or a scenario of your choice, or you can either open or join a [discussion](https://github.com/egomeh/anno1800-scripting-api/discussions/). We welcome all input!
 
-- **Predict and solve** - Even without having suffered a problem, you can very well, take a code as an example, while specifying that this one could be in the future a source of problem, on what scale, to what extent, in which scenario etc.
-
-- **Already a fix ?** If you have an idea to solve this problem or if you already have a patch that corrects it, please let us know!
-
-## Suggest improvements
-
-- **Model** - To help you a [model](https://github.com/seynax/anno1800-scripting-api/master/ISSUE_TEMPLATE/feature_request.md) to suggest improvement is at your disposal
-
-- **Useful information** - You can specify how this idea improves anything and in what aspect (performance, stability, code readability etc)
-
-- **Cosmetic improvement ?** - All improvements suggestions are taken seriously, including readability, layout, formatting etc of the code.
-
-  - **Yes all the same** - despite everything, some choices may have been made for a specific reason, so we will never choose the beauty of the code to the detriment of bugs, various problems etc.
-
-  - **Traceability of choices** - thus, following a request of this type, if it was not accepted with valid justification, it will be published in the "choice / <path_to_the_file> /file.txt" folder, so in the future it will not be necessary to propose this improvement (at least, with the same arguments) and it will not be necessary to find the justification - which takes much less time.
-
-  - **And therefore in final ?** - therefore you can check in the folder "choice / <path_to_the_file> /file.txt" if your proposal has not already been made, you can also obtain the reason
+- **Already a fix ?** If you have an idea to solve this problem or if you already have a patch that corrects it, please let us know! You can also [fork the repository and create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). We'll review it and merge it with pleasure.
 
 ## Any questions ?
 
 - For all questions we are at your disposal
 
-Thank you for everything,
+:heart: Thank you for everything :heart:
+The Anno 1800 Scripting API team
